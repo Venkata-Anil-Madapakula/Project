@@ -25,7 +25,9 @@ With the rise of online food delivery services, ensuring timely deliveries is cr
 
 - **📂 GitHub Repository:** [Project Repository](https://github.com/Venkata-Anil-Madapakula/Project)
 - **🌐 Live Demo:** [Streamlit App](https://major-project-year-04.streamlit.app/#restaurant-level)
-
+- **📰 Publication:**  Published in **International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE)**  
+  🔗 [Read Publication](https://ijarcce.com/papers/forecasting-food-delivery-time-an-exploration-of-predictive-models-and-factors-impacting-delivery-time-estimation/)  
+  
 ---
 
 ## **✨ Features**
