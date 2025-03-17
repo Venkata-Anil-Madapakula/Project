@@ -6,17 +6,16 @@
 
 ## 📖 **Table of Contents**
 
-1. [📌 Project Overview](#📌-project-overview)
-2. [✨ Features](#✨-features)
-3. [⚙️ Installation](#⚙️-installation)
-4. [📊 Dataset](#📊-dataset)
-5. [🛠️ Project Workflow](#🛠️-project-workflow)
-6. [📈 Model Training and Evaluation](#📈-model-training-and-evaluation)
-7. [🚀 Deployment](#🚀-deployment)
-8. [📌 Results and Insights](#📌-results-and-insights)
-9. [🔮 Future Enhancements](#🔮-future-enhancements)
-10. [👥 Contributors](#👥-contributors)
-
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Dataset](#dataset)
+5. [Project Workflow](#project-workflow)
+6. [Model Training and Evaluation](#model-training-and-evaluation)
+7. [Deployment](#deployment)
+8. [Results and Insights](#results-and-insights)
+9. [Future Enhancements](#future-enhancements)
+10. [Contributors](#contributors)
 
 ---
 
